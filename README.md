@@ -1,4 +1,4 @@
-Introduction to Deep Learnong:Implementing Digit Recognition with Custom Network Models.
+MNIST手写数字识别项目（属于图像分类），没有卷积层，是一个纯全连接神经网络，属于深度学习中的 “多层感知机（MLP）” 范畴
 
 models.py是自定义神经网络模型构建文件，使用全连接
 train1.py包含数据处理与加载，数据集为pytorch自带的MNIST数据集，是模型训练文件
